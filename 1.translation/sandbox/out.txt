@@ -1,0 +1,5 @@
+Fourth	Orange	 1276.5
+Second	Green	 1679.9
+First	Red	 3336.7
+Fifth	Purple	 2631.0
+Third	Blue	 1297.4
